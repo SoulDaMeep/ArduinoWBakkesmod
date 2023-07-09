@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ArduinoWBakkesmod", "ArduinoWBakkesmod\ArduinoWBakkesmod.vcxproj", "{FFE983D9-D040-4F85-B7C0-A93E200ACFCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFE983D9-D040-4F85-B7C0-A93E200ACFCF}.Release|x64.ActiveCfg = Release|x64
+		{FFE983D9-D040-4F85-B7C0-A93E200ACFCF}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1AB3073-5366-4170-A85A-9B8179754CE0}
+	EndGlobalSection
+EndGlobal
