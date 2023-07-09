@@ -8,3 +8,11 @@ Visual Studio 2022 \
 
 
 This template allows you to write commands through **Serial Port**.
+
+This is a demo I made to test out sending commands from you .cpp file through serial port to your .ino file. \
+This demo showcases how you can send and recieve more than 1 command through serial port using StatEvents with Bakkesmod.
+Green Light = Touched ball
+Red Light = Demoed
+Blue Light = Scored
+Yello Light = Save \
+[Demo video](https://imgur.com/a/uP2UeMF)
